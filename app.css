@@ -1,0 +1,11 @@
+
+body{
+    padding: 5%;
+}
+img{
+    width: 50px;
+}
+.update-image{
+    display: block;
+    margin-bottom: 5px;
+}
